@@ -34,7 +34,7 @@ const pulsed_ostream_trait pulsed_flush = pulsed_ostream_trait(778699);
 
 /* 
 
-The pulsed_ostream strict will store object passed to it (other than objects 
+The pulsed_ostream struct will store objects passed to it (other than objects 
 of type pulsed_ostream_trait) in a std::stringstream. Once an object of
 pulsed_ostream_trait is passed to it, the pulsed_ostream will flush it's 
 contents down the std::ostream& it was created with, with or without supplying
