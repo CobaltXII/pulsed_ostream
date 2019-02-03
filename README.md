@@ -76,4 +76,4 @@ int main(int argc, char** argv)
 
 # License
 
-pulsed_ostream is licensed under the GNU GPLv3.
+pulsed_ostream is licensed under the WTFPL.
